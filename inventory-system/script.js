@@ -137,3 +137,4 @@ organized code structure
 minor fixes
 improved function logic
 final touches
+applied discount logic
