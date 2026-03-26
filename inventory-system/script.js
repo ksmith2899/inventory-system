@@ -139,3 +139,4 @@ improved function logic
 final touches
 applied discount logic
 added discount method
+added search functionality
