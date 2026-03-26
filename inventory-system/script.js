@@ -140,3 +140,4 @@ final touches
 applied discount logic
 added discount method
 added search functionality
+cleaned up code and comments
