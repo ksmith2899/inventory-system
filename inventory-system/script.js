@@ -132,3 +132,4 @@ added comments
 improved readability
 added console log for testing
 cleaned up code
+renamed variables for clarity
