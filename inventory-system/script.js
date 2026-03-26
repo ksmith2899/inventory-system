@@ -136,3 +136,4 @@ renamed variables for clarity
 organized code structure
 minor fixes
 improved function logic
+final touches
