@@ -123,4 +123,4 @@ if (foundProduct) {
     console.log(foundProduct.toString());
 } else {
     console.log("Product not found.");
-}
+}// added comment for clarity
