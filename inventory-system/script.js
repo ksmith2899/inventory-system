@@ -134,3 +134,4 @@ added console log for testing
 cleaned up code
 renamed variables for clarity
 organized code structure
+minor fixes
