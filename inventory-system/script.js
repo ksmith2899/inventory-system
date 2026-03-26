@@ -124,3 +124,4 @@ if (foundProduct) {
 } else {
     console.log("Product not found.");
 }// added comment for clarity
+added comments to explain code
