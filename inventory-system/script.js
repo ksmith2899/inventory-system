@@ -126,3 +126,4 @@ if (foundProduct) {
 }// added comment for clarity
 added comments to explain code
 // calculating total inventory value
+console.log("Store initialized");
