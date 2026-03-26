@@ -138,3 +138,4 @@ minor fixes
 improved function logic
 final touches
 applied discount logic
+added discount method
