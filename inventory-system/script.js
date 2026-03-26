@@ -129,3 +129,4 @@ added comments to explain code
 console.log("Store initialized");
 updated formatting
 added comments
+improved readability
