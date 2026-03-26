@@ -130,3 +130,4 @@ console.log("Store initialized");
 updated formatting
 added comments
 improved readability
+added console log for testing
